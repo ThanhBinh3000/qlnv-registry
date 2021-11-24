@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Administrator
+Build-Jdk: 15.0.2
+Implementation-Title: qlnv-registry
+Implementation-Version: 0.0.1
+Implementation-Vendor-Id: com.tcdt
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/qlnv-registry
+Created-By: Maven Integration for Eclipse
+
